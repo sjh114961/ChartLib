@@ -1,0 +1,41 @@
+#######################################
+# Syntax Coloring Map For ChartLib
+#######################################
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ChartLib	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initHorizonal	KEYWORD2
+initVertical	KEYWORD2
+DrawBarChartV	KEYWORD2
+updateChart		KEYWORD2
+updateChartH	KEYWORD2
+clear			KEYWORD2
+Format			KEYWORD2
+initDial		KEYWORD2
+setDial			KEYWORD2
+DrawDial		KEYWORD2
+updateDrawDial	KEYWORD2
+initsqMeter		KEYWORD2
+sqMeter			KEYWORD2
+updateSqMeter	KEYWORD2
+setLocation		KEYWORD2
+setLimits		KEYWORD2
+setIncrement	KEYWORD2
+setNumFormat	KEYWORD2
+setColors		KEYWORD2
+setDialColor	KEYWORD2
+setOrientation	KEYWORD2
+setLabel		KEYWORD2
+setSize			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
